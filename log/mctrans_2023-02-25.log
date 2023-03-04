@@ -1,0 +1,67 @@
+2023-02-25 00:58:22|MainThread||Info  | Application started ------------------
+2023-02-25 00:58:22|MainThread||setting | api url : http://localhost/FL/mt.php?
+2023-02-25 00:58:22|MainThread||setting | thread : 2
+2023-02-25 00:58:22|MainThread||setting | log file name : mctrans
+2023-02-25 00:58:22|MainThread||setting | log directory : log
+2023-02-25 00:58:22|thread_0|220807200458@220808200458@99088SMS2497111|Begin  |  
+2023-02-25 00:58:22|thread_0|220807200458@220808200458@99088SMS2497111|Send Data | http://localhost/FL/mt.php?sid=VASBLACKLIST_IOD&msisdn=6281315742675&sms=+%09%09%0ANomor+yang+Ingin+Anda+Blacklist+sudah+terdaftar+di+daftar+Nomor+No+Spam.+Selengkap+nya+Call+%2A500%2A45%23+atau+CS%3A081284549746&smstype=0&delivery_method=push&shortcode=99088&keyword=BLACKLIST&isms=Blacklist+0811931994&subtype=0&age=0&mediacode=0&objectId=0&waptype=0
+2023-02-25 00:58:22|thread_1|220807200458@220808200458@99088SMS2497111|Begin  |  
+2023-02-25 00:58:22|thread_1|220807200458@220808200458@99088SMS2497111|Send Data | http://localhost/FL/mt.php?sid=VASBLACKLIST_IOD&msisdn=6281315742675&sms=+%09%09%0ANomor+yang+Ingin+Anda+Blacklist+sudah+terdaftar+di+daftar+Nomor+No+Spam.+Selengkap+nya+Call+%2A500%2A45%23+atau+CS%3A081284549746&smstype=0&delivery_method=push&shortcode=99088&keyword=BLACKLIST&isms=Blacklist+0811931994&subtype=0&age=0&mediacode=0&objectId=0&waptype=0
+2023-02-25 00:58:25|thread_0|220807200458@220808200458@99088SMS2497111|Response | <push><transid>cc6fe350-508c-40b7-9203-db22e4a97785</transid><status>0</status><msg>Message processed successfully</msg></push>
+2023-02-25 00:58:25|thread_1|220807200458@220808200458@99088SMS2497111|Response | <push><transid>cc6fe350-508c-40b7-9203-db22e4a97785</transid><status>0</status><msg>Message processed successfully</msg></push>
+2023-02-25 00:58:25|thread_0|220807200458@220808200458@99088SMS2497111|End 
+ |  
+2023-02-25 00:59:34|MainThread||Info  | Application started ------------------
+2023-02-25 00:59:34|MainThread||setting | api url : http://localhost/FL/mt.php?
+2023-02-25 00:59:34|MainThread||setting | thread : 2
+2023-02-25 00:59:34|MainThread||setting | log file name : mctrans
+2023-02-25 00:59:34|MainThread||setting | log directory : log
+2023-02-25 00:59:34|thread_0|220807200523@220808200523@99088SMS3478148|Begin  |  
+2023-02-25 00:59:34|thread_1|220807200523@220808200523@99088SMS3478148|Begin  |  
+2023-02-25 00:59:34|thread_0|220807200523@220808200523@99088SMS3478148|Send Data | http://localhost/FL/mt.php?sid=VASVIEW_IOD&msisdn=6281315742675&sms=List+Blacklist+Kamu+%0D%0A62811931994%0D%0A%0D%0A+CS%3A081284549746&smstype=365&delivery_method=push&shortcode=99088&keyword=VIEW&isms=View&subtype=0&age=0&mediacode=0&objectId=0&waptype=0
+2023-02-25 00:59:34|thread_1|220807200523@220808200523@99088SMS3478148|Send Data | http://localhost/FL/mt.php?sid=VASVIEW_IOD&msisdn=6281315742675&sms=List+Blacklist+Kamu+%0D%0A62811931994%0D%0A%0D%0A+CS%3A081284549746&smstype=365&delivery_method=push&shortcode=99088&keyword=VIEW&isms=View&subtype=0&age=0&mediacode=0&objectId=0&waptype=0
+2023-02-25 00:59:34|thread_1|220807200523@220808200523@99088SMS3478148|Response | <push><transid>cc6fe350-508c-40b7-9203-db22e4a97785</transid><status>0</status><msg>Message processed successfully</msg></push>
+2023-02-25 00:59:34|thread_0|220807200523@220808200523@99088SMS3478148|Response | <push><transid>cc6fe350-508c-40b7-9203-db22e4a97785</transid><status>0</status><msg>Message processed successfully</msg></push>
+2023-02-25 00:59:34|thread_0|220807200523@220808200523@99088SMS3478148|error |  Failed 
+2023-02-25 00:59:34|thread_0|220807200523@220808200523@99088SMS3478148|End 
+ |  
+2023-02-25 01:00:58|MainThread||Info  | Application started ------------------
+2023-02-25 01:00:58|MainThread||setting | api url : http://localhost/FL/mt.php?
+2023-02-25 01:00:58|MainThread||setting | thread : 2
+2023-02-25 01:00:58|MainThread||setting | log file name : mctrans
+2023-02-25 01:00:58|MainThread||setting | log directory : log
+2023-02-25 02:09:53|MainThread||Info  | Application started ------------------
+2023-02-25 02:09:53|MainThread||setting | api url : http://localhost/FL/mt.php?
+2023-02-25 02:09:53|MainThread||setting | thread : 2
+2023-02-25 02:09:53|MainThread||setting | log file name : mctrans
+2023-02-25 02:09:53|MainThread||setting | log directory : log
+2023-02-25 02:12:51|MainThread||Info  | Application started ------------------
+2023-02-25 02:12:51|MainThread||setting | api url : http://localhost/FL/mt.php?
+2023-02-25 02:12:51|MainThread||setting | thread : 2
+2023-02-25 02:12:51|MainThread||setting | log file name : mctrans
+2023-02-25 02:12:51|MainThread||setting | log directory : log
+2023-02-25 02:17:03|MainThread||Info  | Application started ------------------
+2023-02-25 02:17:03|MainThread||setting | api url : http://localhost/FL/mt.php?
+2023-02-25 02:17:03|MainThread||setting | thread : 2
+2023-02-25 02:17:03|MainThread||setting | log file name : mctrans
+2023-02-25 02:17:03|MainThread||setting | log directory : log
+2023-02-25 02:20:30|MainThread||Info  | Application started ------------------
+2023-02-25 02:20:30|MainThread||setting | api url : http://localhost/FL/mt.php?
+2023-02-25 02:20:30|MainThread||setting | thread : 2
+2023-02-25 02:20:30|MainThread||setting | log file name : mctrans
+2023-02-25 02:20:30|MainThread||setting | log directory : log
+2023-02-25 02:23:24|MainThread||Info  | Application started ------------------
+2023-02-25 02:23:24|MainThread||setting | api url : http://localhost/FL/mt.php?
+2023-02-25 02:23:24|MainThread||setting | thread : 2
+2023-02-25 02:23:24|MainThread||setting | log file name : mctrans
+2023-02-25 02:23:24|MainThread||setting | log directory : log
+2023-02-25 02:23:51|MainThread||Info  | Application started ------------------
+2023-02-25 02:23:51|MainThread||setting | api url : http://localhost/FL/mt.php?
+2023-02-25 02:23:51|MainThread||setting | thread : 2
+2023-02-25 02:23:51|MainThread||setting | log file name : mctrans
+2023-02-25 02:23:51|MainThread||setting | log directory : log
+2023-02-25 02:30:10|MainThread||Info  | Application started ------------------
+2023-02-25 02:30:11|MainThread||setting | api url : http://localhost/FL/mt.php?
+2023-02-25 02:30:11|MainThread||setting | thread : 2
+2023-02-25 02:30:11|MainThread||setting | log file name : mctrans
+2023-02-25 02:30:11|MainThread||setting | log directory : log

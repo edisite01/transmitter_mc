@@ -1,0 +1,68 @@
+2023-02-23 23:38:08|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:38:36|MainThread||Info  | Application started ------------------
+2023-02-23 23:38:36|MainThread||setting | api url : http://localhost/FL/mt.php?
+2023-02-23 23:38:36|MainThread||setting | thread : 1
+2023-02-23 23:38:36|MainThread||setting | log file name : myapp.log
+2023-02-23 23:38:36|MainThread||setting | log directory : 
+2023-02-23 23:38:36|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:38:39|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:38:42|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:38:45|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:38:48|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:38:51|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:38:54|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:38:57|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:00|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:03|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:06|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:09|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:12|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:15|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:19|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:22|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:25|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:28|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:31|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:34|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:37|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:40|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:43|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:46|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:49|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:52|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:55|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:39:58|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:40:01|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:40:04|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:40:07|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:40:11|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:40:14|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:40:17|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:40:20|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:40:23|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:40:26|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:40:29|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:40:32|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:40:35|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:40:38|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:40:41|MainThread||info |  Queue empty -> sleep 3 second 
+2023-02-23 23:41:15|MainThread||Info  | Application started ------------------
+2023-02-23 23:41:15|MainThread||setting | api url : http://localhost/FL/mt.php?
+2023-02-23 23:41:15|MainThread||setting | thread : 1
+2023-02-23 23:41:15|MainThread||setting | log file name : myapp.log
+2023-02-23 23:41:15|MainThread||setting | log directory : 
+2023-02-23 23:50:56|MainThread||Info  | Application started ------------------
+2023-02-23 23:50:56|MainThread||setting | api url : http://localhost/FL/mt.php?
+2023-02-23 23:50:56|MainThread||setting | thread : 1
+2023-02-23 23:50:56|MainThread||setting | log file name : myapp.log
+2023-02-23 23:50:56|MainThread||setting | log directory : 
+2023-02-23 23:51:50|MainThread||Info  | Application started ------------------
+2023-02-23 23:51:50|MainThread||setting | api url : http://localhost/FL/mt.php?
+2023-02-23 23:51:50|MainThread||setting | thread : 1
+2023-02-23 23:51:50|MainThread||setting | log file name : myapp.log
+2023-02-23 23:51:50|MainThread||setting | log directory : 
+2023-02-23 23:52:33|MainThread||Info  | Application started ------------------
+2023-02-23 23:52:33|MainThread||setting | api url : http://localhost/FL/mt.php?
+2023-02-23 23:52:33|MainThread||setting | thread : 1
+2023-02-23 23:52:33|MainThread||setting | log file name : myapp.log
+2023-02-23 23:52:33|MainThread||setting | log directory : 

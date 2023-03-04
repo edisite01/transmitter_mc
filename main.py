@@ -143,10 +143,10 @@ def send_data(q_in):
 def process():
     while True:
         # print("thread count0",threading.active_count())
-        if mt_q.full() or gqueEXEC.full():
+        if mt_q.full() or gqueEXEC.full() or not mt_q.empty() or not gqueEXEC.empty():
             write_log("info"," Queue isfull -> sleep 3 second ")
-            write_log("Size of Queue", "mt_q :" +str(mt_q.qsize()))
-            write_log("Size of Queue", "gqueEXEC : "+str(gqueEXEC.qsize()))
+            write_log("Size of Queue", "mt_q :" +str(mt_q.qsize())+ " | maxsize : "+mt_q.maxsize)
+            write_log("Size of Queue", "gqueEXEC : "+str(gqueEXEC.qsize())+ " | maxsize : "+gqueEXEC.maxsize)
             write_log("info"," \n\n")
             time.sleep(3)
             process()
